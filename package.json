@@ -29,8 +29,8 @@
     "zod": "^3.24.0"
   },
   "devDependencies": {
-    "@paperclipai/plugin-sdk": "link:/home/goose/paperclip-dev/paperclip-master/packages/plugins/sdk",
-    "@paperclipai/shared": "link:/home/goose/paperclip-dev/paperclip-master/packages/shared",
+    "@paperclipai/plugin-sdk": "^2026.325.0",
+    "@paperclipai/shared": "^2026.325.0",
     "@rollup/plugin-node-resolve": "^16.0.0",
     "@rollup/plugin-typescript": "^12.0.0",
     "@types/node": "^24.6.0",
